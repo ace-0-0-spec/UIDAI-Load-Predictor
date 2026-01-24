@@ -4,4 +4,8 @@ matplotlib
 seaborn
 statsmodels
 scikit-learn
-ipykernel
+python-dateutil
+fastapi
+uvicorn[standard]
+python-multipart
+openpyxl

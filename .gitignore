@@ -1,2 +1,27 @@
-/data
-/output
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+data/raw/
+data/processed/
+data/features/
+data/forecasts/
+data/reference
+data/recommendations.csv
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Dashboard
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.env
+
+#files
+pipelines/clean.py
